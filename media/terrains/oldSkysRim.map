@@ -1,0 +1,19 @@
+[Map]
+Name=Sky's Rim
+Seed=kB79or3sDW
+[Terrain]
+Filename=oldSkysRimTerrain.cfg
+Size=20000 20000
+Boundary=7500
+[Sky]
+HasSky=true
+[Objects]
+Filename=oldSkysRimObjects.cfg
+[Gates]
+Filename=oldSkysRimGates.cfg
+[Water]
+Filename=oldSkysRimWater.cfg
+Ocean=10000 25 10000
+OceanSize=24000 24000
+[MapMaker]
+StartPos=10282.5 7119.36 10417.5
