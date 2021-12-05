@@ -2,3 +2,9 @@ Capabilities:: VertexProgram: YES
 Capabilities:: FragmentProgram: YES
 Sound:: Initialized: YES
 ERROR::SaveFile:loadz: WaterMillGates.cfg failed!
+ERROR::MapMaker: unable to load oldObjects/oldWaterfallSmoke
+ERROR::MapMaker: unable to load oldObjects/oldWaterfallSmoke
+ERROR::MapMaker: unable to load oldObjects/oldWaterfallSmoke
+ERROR::MapMaker: unable to load oldObjects/oldWaterSplash
+ERROR::MapMaker: unable to load oldObjects/oldWaterSplash
+ERROR::SaveFile:loadz: WaterMillGates.cfg failed!

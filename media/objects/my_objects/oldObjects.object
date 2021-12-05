@@ -1,0 +1,165 @@
+[Palm]
+mesh0=palm1.mesh;0 0 0;1 1 1;1 0 0 0;
+coll0=b;0 0 0;9.39999 57.2 11.15;
+[Rock1]
+mesh0=rock1.mesh;0 -1.59999 0;0.764999 0.592 0.553;0.976477 -0.0105968 0.215077 -0.0110841;rockMat3;
+mesh1=rock1.mesh;0 4.85001 -19.3;0.764999 0.592 0.553;0.202881 0.752582 0.133396 0.6121;rockMat2;
+coll0=b;0.353999 0 -5.1;31.804 17.0879 35.298;
+[Rock2]
+mesh0=rock2.mesh;0 0 0;1 1 1;-0.374441 0.479901 0.78649 0.104512;
+mesh1=rock2.mesh;0 0 14.7;1 1 1;0.809602 0.327875 0.454235 0.175253;rockMat3;
+mesh2=rock1.mesh;-4.2 -1.25 9.95;0.778 0.71 0.727;0.966196 0 0.257808 0;rockMat1;
+coll0=b;15.4 0 -3.4;47.15 30 40.35;
+coll1=b;0.8 0 21.4;47.7 30 51.5;
+[Shrub1]
+mesh0=shrub.mesh;0 0 -1.656;1.935 2.484 1.299;1 0 0 0;
+mesh1=shrub.mesh;0 0 0;1.171 2.126 1.832;-0.0604386 0 0.998172 0;
+[Shrub2]
+mesh0=shrub2.mesh;0 -2.538 0;1 1 1;1 0 0 0;
+[Shrub3]
+mesh0=shrub3.mesh;0 -10.45 0;0.604 0.59 0.622;0.513092 0 0.858334 0;ShrubMat3/Leaf2;
+[Shrub4]
+mesh0=shrub3.mesh;0 -10.45 0;0.91 0.831 0.888;0.513092 0 0.858334 0;ShrubMat3/Leaf;
+mesh1=shrub3.mesh;11.352 31.2 -5.35;0.72 0.890841 0.697;0.271279 -0.0026894 0.144837 0.951537;ShrubMat3/Leaf2;
+[Fern2]
+mesh0=fern1.mesh;0 0 0;1 0.91 1;1 0 0 0;
+mesh1=fern1.mesh;0 -1.5 0;0.635 1.265 0.627;0.0274861 0 -0.999622 0;
+[Fern1]
+mesh0=fern1.mesh;0 0 0;0.97064 1 0.9712;1 0 0 0;
+[Flowers1]
+mesh0=flower1.mesh;0.714 0 -0.232;0.3 0.3 0.3;-0.714289 0 0.69985 0;
+mesh1=flower1.mesh;0 0 0.969998;0.3 0.233 0.3;0.596426 0.028611 0.793067 0.120423;
+mesh2=flower1.mesh;-1.188 0 -1.328;0.2704 0.239 0.28084;-0.995228 0.0462051 0.0673238 -0.0534159;
+[Flowers2]
+mesh0=flower2.mesh;0.714 0 -0.232;0.3 0.3 0.3;-0.714289 0 0.69985 0;
+mesh1=flower2.mesh;0 0 0.969998;0.3 0.233 0.3;0.596426 0.028611 0.793067 0.120423;
+mesh2=flower2.mesh;-1.188 0 -1.328;0.2704 0.239 0.28084;-0.995228 0.0462051 0.0673238 -0.0534159;
+[Flowers3]
+mesh0=flower3.mesh;0.714 0 -0.232;0.3 0.3 0.3;-0.992407 0 0.122995 0;
+mesh1=flower3.mesh;0 0 0.969998;0.3 0.233 0.3;0.509815 0.0411031 0.851333 0.116751;
+mesh2=flower3.mesh;-1.188 0 -1.328;0.2704 0.239 0.28084;-0.996907 0.0444183 0.0344638 -0.0549107;
+[FlowerBunch]
+mesh0=flower1.mesh;0 0 0;0.3 0.3 0.3;0.925375 0 -0.379053 0;FlowerMat/Flower1;FlowerMat/Leaf2;
+mesh1=flower2.mesh;2.65 0 -7.37799;0.3 0.3 0.3;0.27518 0.0158557 0.961251 -0.00453907;FlowerMat/Flower2;FlowerMat/Leaf2;
+mesh2=flower3.mesh;0 0 -9.65;0.3 0.3 0.3;0.563382 0 -0.826197 0;
+mesh3=flower1.mesh;-5.376 0 -4.7;0.3192 0.3274 0.315;0.925375 0 -0.379052 0;
+mesh4=flower3.mesh;-5.79199 0 -0.927975;0.31064 0.32212 0.31448;0.994217 0 -0.107392 0;
+mesh5=flower2.mesh;0 0 -5.8;0.3 0.415 0.3;0.507012 0 0.861939 0;
+mesh6=flower1.mesh;3.7 0 -2.2;0.29492 0.29576 0.29532;-0.389074 0.0656118 0.91563 0.0770568;FlowerMat/Flower1;FlowerMat/Leaf1;
+mesh7=flower3.mesh;2.692 0 -0.295997;0.3 0.3 0.3;0.886289 0.14895 -0.432463 -0.07268;FlowerMat/Flower3;FlowerMat/Leaf1;
+mesh8=flower1.mesh;-4.41401 0 -8.63398;0.29492 0.29576 0.29532;-0.99338 0.0947823 -0.0543536 -0.0354819;FlowerMat/Flower1;FlowerMat/Leaf2;
+mesh9=flower2.mesh;-2.882 0 1.954;0.3 0.297 0.3;-0.550299 -0.0385289 0.832041 0.058255;FlowerMat/Flower2;FlowerMat/Leaf2;
+mesh10=flower3.mesh;-1.56 0 -4.022;0.37528 0.39936 0.34956;0.771514 0 -0.636213 0;FlowerMat/Flower3;FlowerMat/Leaf1;
+[Cliff]
+mesh0=%fhcliff.mesh;0 50 0;10 10 10;1 0 0 0;
+[Temple]
+mesh0=%fhRing.mesh;0 291 0;10 10 10;1 0 0 0;
+mesh1=%fhCylinder.mesh;0 100 0;12 1 12;0.970324 0 0.241807 0;
+mesh2=%fhCylinder.mesh;0 118 196;1 8.782 1;1 0 0 0;
+mesh3=%fhCylinder.mesh;196 118 0;1 8.782 1;1 0 0 0;
+mesh4=%fhCylinder.mesh;-196 118 0;1 8.782 1;1 0 0 0;
+mesh5=%fhCube.mesh;0 47.0501 -357.2;3.71899 0.549642 10;0.980681 -0.195614 0 0;
+mesh6=%fhCylinder.mesh;-142 118 -142;1 8.782 1;1 0 0 0;
+mesh7=%fhCylinder.mesh;142 118 -142;1 8.782 1;1 0 0 0;
+mesh8=%fhCylinder.mesh;142 118 142;1 8.782 1;1 0 0 0;
+mesh9=%fhCylinder.mesh;-142 118 142;1 8.782 1;1 0 0 0;
+[Temple1]
+mesh0=%fhRing.mesh;0 291 0;10 10 10;1 0 0 0;
+mesh1=%fhCylinder.mesh;0 100 0;12 1 12;0.970324 0 0.241807 0;
+mesh2=%fhCylinder.mesh;0 118 196;1 8.782 1;1 0 0 0;
+mesh3=%fhCube.mesh;0 47.0501 -357.2;6 0.5 10;0.980681 -0.195614 0 0;
+mesh4=%fhCylinder.mesh;-142 118 -142;1 8.782 1;1 0 0 0;
+mesh5=%fhCylinder.mesh;142 118 -142;1 8.782 1;1 0 0 0;
+mesh6=%fhCylinder.mesh;142 118 142;1 8.782 1;1 0 0 0;
+mesh7=%fhCylinder.mesh;-142 118 142;1 8.782 1;1 0 0 0;
+[Temple2]
+mesh0=%fhRing.mesh;0 291 0;10 10 10;1 0 0 0;
+mesh1=%fhCylinder.mesh;0 100 0;12 1 12;0.970324 0 0.241807 0;
+mesh2=%fhCylinder.mesh;0 118 196;1 8.782 1;1 0 0 0;
+mesh3=%fhCylinder.mesh;196 118 0;1 8.782 1;1 0 0 0;
+mesh4=%fhCylinder.mesh;-196 118 0;1 8.782 1;1 0 0 0;
+mesh5=%fhCube.mesh;0 47.0501 -357.2;6 0.5 10;0.980681 -0.195614 0 0;
+mesh6=%fhCylinder.mesh;-142 118 -142;1 8.782 1;1 0 0 0;
+mesh7=%fhCylinder.mesh;142 118 -142;1 8.782 1;1 0 0 0;
+mesh8=%fhCylinder.mesh;-142 118 142;1 8.782 1;1 0 0 0;
+[TemplePath]
+mesh0=%fhRing.mesh;0 100 0;10 10 10;0.993321 0 0.115384 0;
+mesh1=%fhCube.mesh;0 48.5481 -341.462;6 0.5 10;0.980681 -0.195614 0 0;
+[Temple3]
+mesh0=%fhRing.mesh;0 291 0;10 10 10;1 0 0 0;
+mesh1=%fhCylinder.mesh;0 100 0;12 1 12;0.970324 0 0.241807 0;
+mesh2=%fhCylinder.mesh;0 118 196;1 8.782 1;1 0 0 0;
+mesh3=%fhCylinder.mesh;196 118 0;1 8.782 1;1 0 0 0;
+mesh4=%fhCylinder.mesh;-196 118 0;1 8.782 1;1 0 0 0;
+mesh5=%fhCube.mesh;0 47.0501 -357.2;6 0.5 10;0.980681 -0.195614 0 0;
+mesh6=%fhCylinder.mesh;-142 118 -142;1 8.782 1;1 0 0 0;
+mesh7=%fhCylinder.mesh;142 118 -142;1 8.782 1;1 0 0 0;
+mesh8=%fhCylinder.mesh;142 118 142;1 8.782 1;1 0 0 0;
+[Waterfall]
+mesh0=waterfall1.mesh;0 100 0;1 1.7 1;1 0 0 0;
+[Waterfall2]
+mesh0=waterfall1.mesh;0 152.272 0;0.231001 2.41203 0.616;1 0 0 0;
+[TemplePath2]
+mesh0=%fhCube.mesh;0 0 0;6 0.5 10;0.980681 -0.195614 0 0;
+[OakTree]
+mesh0=oakTree.mesh;0 0 0;1 1 1;1 0 0 0;
+coll0=b;0 0 -0.876;43.8599 105.95 44.25;
+[Grass1]
+mesh0=grass.mesh;0 0 0;1 1 1;1 0 0 0;
+mesh1=grass.mesh;8.25 0 0;1 0.931 1;0.494094 0 0.869408 0;
+mesh2=grass.mesh;-8.4 0 0;1 0.9936 1;0.765988 0 0.642855 0;
+mesh3=grass.mesh;-0.350001 0 -8.65;1 0.9416 1;0.160311 0 0.987067 0;
+mesh4=grass.mesh;-0.926004 0 7.186;1 0.990799 1;-0.217377 0 0.976088 0;
+[Grass2]
+mesh0=grass.mesh;0 -0.71 0;1.925 2.249 1.932;1 0 0 0;
+mesh1=grass.mesh;17.5 -0.67 0;1.925 2.249 1.932;0.97237 0 0.233445 0;
+mesh2=grass.mesh;-14.95 -0.66 0;1.925 2.249 1.932;-0.417947 0 0.908472 0;
+mesh3=grass.mesh;2.55 -0.67 -15;1.925 2.249 1.932;-0.831033 0 0.556223 0;
+mesh4=grass.mesh;2.55 -0.67 20.05;1.925 2.249 1.932;-0.587149 0 0.809479 0;
+mesh5=grass.mesh;20.05 -0.67 20.05;1.925 2.249 1.932;-0.89065 0 0.45469 0;
+mesh6=grass.mesh;-20.85 -0.66 20.05;1.925 2.249 1.932;-0.975053 0 0.221974 0;
+mesh7=grass.mesh;-16.7 -0.66 -24.9;1.925 2.249 1.932;-0.94735 0 -0.320199 0;
+mesh8=grass.mesh;19.15 -0.67 -24.9;1.925 2.249 1.932;-0.937646 0 0.347591 0;
+mesh9=grass.mesh;-33.62 -0.67 0;1.925 2.249 1.932;0.980938 0 0.19432 0;
+mesh10=grass.mesh;34.35 -0.67 0;1.925 2.249 1.932;0.972186 0 -0.234209 0;
+mesh11=grass.mesh;0 -0.67 37.45;1.925 2.249 1.932;0.9754 0 -0.220442 0;
+mesh12=grass.mesh;0 -0.67 -37.45;1.925 2.249 1.932;0.981242 0 0.192779 0;
+[FirTree]
+mesh0=firTree.mesh;0 0 0;1 1 1;1 0 0 0;
+coll0=b;0 0 0;10 110.1 10;
+[Shrooms1]
+mesh0=shroom1.mesh;0 0 0;1.885 1.805 1.761;1 0 0 0;3D-Diggers/shroom1;
+mesh1=shroom2.mesh;1.98 -0.396001 2.45;1.996 1.994 1.919;0.996134 0.0878512 0 0;
+mesh2=shroom2.mesh;4.96401 -0.396001 -0.914;2.123 2.153 2.056;0.477832 0.0421411 0.874047 -0.077084;
+[Shrooms2]
+mesh0=shroom1.mesh;3.65 -0.272001 -3.75;2.458 2.151 2.13;0.0604381 0 -0.998173 0;3D-Diggers/shroom1;
+mesh1=shroom2.mesh;4.96401 -0.396001 0.952;2.123 2.153 2.056;-0.844399 -0.0744693 -0.52846 0.0466059;
+mesh2=shroom1.mesh;1.8 -0.257995 0.5;1.885 1.805 1.761;0.75534 0.107501 0.640008 0.0910867;
+[Mount1]
+mesh0=%fhMount2.mesh;0 0 0;16 16 16;1 0 0 0;rockMat1;
+[Mount2]
+mesh0=%fhMount3.mesh;0 0 0;16 16 16;1 0 0 0;rockMat1;
+[Mount3]
+mesh0=%fhMount4.mesh;0 0 0;16 16 16;1 0 0 0;rockMat2;
+[Plateau1]
+mesh0=%fhPlateau1.mesh;0 0 0;3 2 3;1 0 0 0;rockMat2;
+[Mount4]
+mesh0=%fhMount1.mesh;0 0 0;16 10 16;1 0 0 0;rockMat3;
+[Cave1]
+mesh0=%fhCave1.mesh;0 0 0;1.2 1.5 1.2;1 0 0 0;
+[WaterfallSmoke]
+particle0=WaterfallSmoke;0 0 0;1 1 0.5;0.712462 0 0.70171 0
+[WaterSplash]
+particle0=WaterSplash;0 0 0;1 1 1;1 0 0 0
+[Crystal1]
+mesh0=crystal1.mesh;0 10 0;3 3 3;1 0 0 0;
+mesh1=vine.mesh;0 16.048 0;1 2 1;1 0 0 0;
+coll0=s;0 10.402 0;7.75;
+billboard0=crystalGlowMat;0 10 0;60 60
+light0=0 10.678 0;0 0.835938 1 1
+[CrystalNoLight]
+mesh0=crystal1.mesh;0 10 0;3 3 3;1 0 0 0;
+coll0=s;0 10.402 0;7.75;
+billboard0=crystalGlowMat;0 10 0;60 60
+[Cave2]
+mesh0=%den.mesh;0 0 0;3 3 3;1 0 0 0;

@@ -1,0 +1,14 @@
+[RockSlab1]
+mesh0=%fhCube.mesh;0 0 0;5 1 5;1 0 0 0;
+[RockSlab2]
+mesh0=%fhCylinder.mesh;0 0 0;5 1 5;1 0 0 0;
+[RockSlab3]
+mesh0=%fhRing.mesh;0 0 0;5 5 5;1 0 0 0;
+[IceCave]
+mesh0=cave1.mesh;0 0 0;1 1 1;1 0 0 0;snowRockMat1;
+[RockIsland]
+mesh0=%rockIsland.mesh;0 0 0;10 10 10;1 0 0 0;
+[RockIsland2]
+mesh0=%rockIsland2.mesh;0 0 0;10 10 10;1 0 0 0;
+[Pillar1]
+mesh0=%fhCylinder.mesh;0 0 0;1 10 1;1 0 0 0;rockMat2;
