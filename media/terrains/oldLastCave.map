@@ -1,0 +1,21 @@
+[Map]
+Name=Last Cave
+Seed=vS3s414XDq
+[Terrain]
+Filename=oldLastCaveTerrain.cfg
+Size=100000 100000
+Boundary=5000
+[Sky]
+HasSky=false
+CeilingMat=CeilingMat
+CeilingHeight=2000
+[Objects]
+Filename=oldLastCaveObjects.cfg
+[Gates]
+Filename=oldLastCaveGates.cfg
+[Water]
+Filename=oldLastCaveWater.cfg
+Ocean=50000 1600 50000
+OceanSize=120000 120000
+[MapMaker]
+StartPos=2500 120 2500

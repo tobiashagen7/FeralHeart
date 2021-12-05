@@ -1,5 +1,6 @@
 Capabilities:: VertexProgram: YES
 Capabilities:: FragmentProgram: YES
 Sound:: Initialized: YES
-ERROR::SaveFile:loadz: WaterMillGates.cfg failed!
+ERROR::LoadFile::cannot find fhBackdrop.object
+ERROR::WorldObject: failed to load ObjectGroup fhBackdrop
 ERROR::SaveFile:loadz: WaterMillGates.cfg failed!

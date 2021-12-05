@@ -18,8 +18,4 @@ Filename=oldFichoTunnelWater.cfg
 Ocean=2500 50 2500
 OceanSize=6000 6000
 [MapMaker]
-StartPos=4182.95 458.575 4287.65
-[Portal]
-HasPortal=true
-Position=4711 320 4709
-Yaw=225
+StartPos=4497.38 271.638 1835.74

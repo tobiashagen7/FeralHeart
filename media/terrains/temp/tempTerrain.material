@@ -1,5 +1,5 @@
-import AlphaSplatTerrain2 from "terrain.material"
-material Terrain/temp : AlphaSplatTerrain2
+import AlphaSplatTerrain1 from "terrain.material"
+material Terrain/temp : AlphaSplatTerrain1
 {
 technique
 {
@@ -7,21 +7,15 @@ pass
 {
 vertex_program_ref AlphaSplatTerrain/VP
 {
-param_named pageSize float 15000
-param_named textureTileSize float 3.33333
+param_named pageSize float 5000
+param_named textureTileSize float 10
 }
-fragment_program_ref AlphaSplatTerrain2/FP
+fragment_program_ref AlphaSplatTerrain1/FP
 {
-param_named alpha0Mask float4 1 1 1 0
-param_named alpha1Mask float4 1 1 0 0
+param_named alpha0Mask float4 1 0 0 0
 }
 }
 }
-set_texture_alias AlphaMap1 oldBonfireIslandMask.png
-set_texture_alias AlphaMap2 oldBonfireIslandMask2.png
-set_texture_alias Splat1 oldgreen_grass.jpg
-set_texture_alias Splat2 oldgreengrass.jpg
-set_texture_alias Splat3 oldsoftSand.jpg
-set_texture_alias Splat4 oldafrican_grass.jpg
-set_texture_alias Splat5 oldground.jpg
+set_texture_alias AlphaMap1 defaultMask.png
+set_texture_alias Splat1 african_grass.jpg
 }

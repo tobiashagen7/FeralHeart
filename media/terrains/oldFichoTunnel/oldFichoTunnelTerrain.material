@@ -17,5 +17,5 @@ param_named alpha0Mask float4 1 0 0 0
 }
 }
 set_texture_alias AlphaMap1 defaultMask.png
-set_texture_alias Splat1 Old_ceiling.jpg
+set_texture_alias Splat1 oldceiling.jpg
 }

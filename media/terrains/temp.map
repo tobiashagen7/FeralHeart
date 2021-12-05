@@ -1,26 +1,22 @@
 [Map]
-Name=Ficho Tunnel
+Name=Last Cave
 Seed=yL2g4VYfme
 [Terrain]
 Filename=tempTerrain.cfg
 Size=5000 5000
-Boundary=0
+Boundary=5000
 [Sky]
 HasSky=false
 CeilingMat=CeilingMat
-CeilingHeight=500
+CeilingHeight=2000
 [Objects]
 Filename=tempObjects.cfg
 [Gates]
 Filename=tempGates.cfg
 [Water]
 Filename=tempWater.cfg
-Ocean=2500 50 2500
+Ocean=2500 1600 2500
 OceanSize=6000 6000
 [MapMaker]
-StartPos=3980.68 425.351 4015.3
+StartPos=2067.07 1102.57 3143.48
 [Weather]
-[Portal]
-HasPortal=true
-Position=4711 320 4709
-Yaw=225
