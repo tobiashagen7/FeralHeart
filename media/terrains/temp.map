@@ -1,10 +1,10 @@
 [Map]
-Name=Old Lonely Cave
+Name=South Pole
 Seed=yL2g4VYfme
 [Terrain]
 Filename=tempTerrain.cfg
-Size=5000 5000
-Boundary=1000
+Size=25000 25000
+Boundary=2500
 [Sky]
 HasSky=true
 [Objects]
@@ -13,14 +13,7 @@ Filename=tempObjects.cfg
 Filename=tempGates.cfg
 [Water]
 Filename=tempWater.cfg
-Ocean=2500 50 2500
-OceanSize=6000 6000
 [MapMaker]
-StartPos=2414.37 246.466 2547.17
+StartPos=21625.2 2807.34 4100.58
 [Weather]
-[Portal]
-HasPortal=true
-Position=3742.13 29.5498 2530.64
-Yaw=100
-[Skills]
-NoFlying=true
+Filename=EternalSnow

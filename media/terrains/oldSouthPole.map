@@ -1,0 +1,19 @@
+[Map]
+Name=South Pole
+Seed=w5DYj32JZt
+[Terrain]
+Filename=oldSouthPoleTerrain.cfg
+Size=25000 25000
+Boundary=2500
+[Sky]
+HasSky=true
+[Objects]
+Filename=oldSouthPoleObjects.cfg
+[Gates]
+Filename=oldSouthPoleGates.cfg
+[Water]
+Filename=oldSouthPoleWater.cfg
+[MapMaker]
+StartPos=21625.2 2807.34 4100.58
+[Weather]
+Filename=EternalSnow
