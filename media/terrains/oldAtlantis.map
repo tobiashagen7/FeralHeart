@@ -1,0 +1,19 @@
+[Map]
+Name=Atlantis
+Seed=42S776ltaO
+[Terrain]
+Filename=oldAtlantisTerrain.cfg
+Size=50000 50000
+Boundary=2500
+[Sky]
+HasSky=true
+[Objects]
+Filename=oldAtlantisObjects.cfg
+[Gates]
+Filename=oldAtlantisGates.cfg
+[Water]
+Filename=oldAtlantisWater.cfg
+Ocean=25000 3500 25000
+OceanSize=60000 60000
+[MapMaker]
+StartPos=2500 120 2500
