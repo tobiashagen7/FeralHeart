@@ -1,0 +1,21 @@
+[Map]
+Name=Ascension Island
+Seed=3bOAQX6CG0
+[Terrain]
+Filename=oldAscensionIslandTerrain.cfg
+Size=5000 5000
+Boundary=50
+[Sky]
+HasSky=true
+[Objects]
+Filename=oldAscensionIslandObjects.cfg
+[Gates]
+Filename=oldAscensionIslandGates.cfg
+[Water]
+Filename=oldAscensionIslandWater.cfg
+Ocean=2500 50 2500
+OceanSize=6000 6000
+[MapMaker]
+StartPos=-1030.85 5833.36 -576.767
+[Skills]
+NoFlying=true

@@ -1,20 +1,26 @@
 [Map]
-Name=Fluorite Plains
+Name=Ficho Tunnel
 Seed=yL2g4VYfme
 [Terrain]
 Filename=tempTerrain.cfg
-Size=50000 50000
-Boundary=2000
+Size=5000 5000
+Boundary=0
 [Sky]
-HasSky=true
+HasSky=false
+CeilingMat=CeilingMat
+CeilingHeight=500
 [Objects]
 Filename=tempObjects.cfg
 [Gates]
 Filename=tempGates.cfg
 [Water]
 Filename=tempWater.cfg
-Ocean=25000 100 25000
-OceanSize=60000 60000
+Ocean=2500 50 2500
+OceanSize=6000 6000
 [MapMaker]
-StartPos=14616.8 384.053 27982.9
+StartPos=3980.68 425.351 4015.3
 [Weather]
+[Portal]
+HasPortal=true
+Position=4711 320 4709
+Yaw=225
