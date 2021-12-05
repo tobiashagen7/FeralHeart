@@ -1,20 +1,19 @@
 [Map]
 Name=Fluorite Plains
-Seed=yL2g4VYfme
+Seed=f4USJsk06f
 [Terrain]
-Filename=tempTerrain.cfg
+Filename=oldFluoritePlainsTerrain.cfg
 Size=50000 50000
 Boundary=2000
 [Sky]
 HasSky=true
 [Objects]
-Filename=tempObjects.cfg
+Filename=oldFluoritePlainsObjects.cfg
 [Gates]
-Filename=tempGates.cfg
+Filename=oldFluoritePlainsGates.cfg
 [Water]
-Filename=tempWater.cfg
+Filename=oldFluoritePlainsWater.cfg
 Ocean=25000 100 25000
 OceanSize=60000 60000
 [MapMaker]
 StartPos=14616.8 384.053 27982.9
-[Weather]
