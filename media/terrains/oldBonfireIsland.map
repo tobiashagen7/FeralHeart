@@ -1,0 +1,19 @@
+[Map]
+Name=Bonfire Island
+Seed=G855A1KWDR
+[Terrain]
+Filename=oldBonfireIslandTerrain.cfg
+Size=15000 15000
+Boundary=2000
+[Sky]
+HasSky=true
+[Objects]
+Filename=oldBonfireIslandObjects.cfg
+[Gates]
+Filename=oldBonfireIslandGates.cfg
+[Water]
+Filename=oldBonfireIslandWater.cfg
+Ocean=7500 70 7500
+OceanSize=18000 18000
+[MapMaker]
+StartPos=9563.98 522.381 8816.07
