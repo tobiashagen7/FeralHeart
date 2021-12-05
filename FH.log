@@ -2,4 +2,3 @@ Capabilities:: VertexProgram: YES
 Capabilities:: FragmentProgram: YES
 Sound:: Initialized: YES
 ERROR::SaveFile:loadz: WaterMillGates.cfg failed!
-ERROR::SaveFile:loadz: WaterMillGates.cfg failed!
