@@ -1,0 +1,28 @@
+[FirTree]
+mesh0=firTree.mesh;0 0 0;1 1 1;1 0 0 0;
+coll0=b;0 -1.1 0;7 110 7;
+[FirSnowTree]
+mesh0=firTree.mesh;0 0 0;1 1 1;1 0 0 0;FirMat/Bark;FirMat/Leafsnow;
+coll0=b;0 -1.1 0;7 110 7;
+[OakTree]
+mesh0=oakTree.mesh;0 0 0;1 1 1;1 0 0 0;
+coll0=b;0 0 0;44 100 46;
+[PalmTree]
+mesh0=%palm1.mesh;0 0 0;1 1 1;1 0 0 0;
+[AcaciaTree]
+mesh0=acaciatree.mesh;0 0 0;0.7 0.7 0.7;1 0 0 0;
+coll0=b;0 -2 0;15 32 15;
+[AcaciaAutumnTree]
+mesh0=acaciatree.mesh;0 0 0;0.7 0.7 0.7;1 0 0 0;acaciaBarkMat;acaciaLeafYellowMat;
+coll0=b;0 -2 0;15 32 15;
+[AcaciaDeadTree]
+mesh0=acaciatree.mesh;0 0 0;0.7 0.7 0.7;1 0 0 0;acaciaBarkMat;acaciaLeafDeadMat;
+coll0=b;0 -2 0;15 32 15;
+[FirTallTree1]
+mesh0=fir1.mesh;0 0 0;1 1 1;1 0 0 0;
+[FirTallTree2]
+mesh0=fir2.mesh;0 0 0;1 1 1;1 0 0 0;
+[FirTallTree3]
+mesh0=fir3.mesh;0 0 0;1 1 1;1 0 0 0;
+[SavannahTree]
+mesh0=savannahTreetigg.mesh;0 0 0;1 1 1;1 0 0 0;savannahLeaves/TWOSIDE;savannahTree/bark;savannahTree/bark;

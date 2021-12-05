@@ -1,0 +1,16 @@
+[409-1109]
+type=LightRain
+fade=in
+[1109-1809]
+type=LightRain
+[1809-2209]
+type=LightRain
+fade=out
+[5025-5525]
+type=Rain
+fade=in
+[5525-6225]
+type=Rain
+[6225-6625]
+type=Rain
+fade=out

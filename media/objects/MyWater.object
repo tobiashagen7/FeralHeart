@@ -1,0 +1,25 @@
+[Waterfall]
+mesh0=waterfall1.mesh;0 60 0;1 1 1;1 0 0 0;
+[BlueAnemone]
+mesh0=shrub.mesh;0 0 0;1 1 1;1 0 0 0;BlueAnemone;BlueAnemone;
+[GreenAnemone]
+mesh0=shrub.mesh;0 0 0;1 1 1;1 0 0 0;GreenAnemone;GreenAnemone;
+[Barnacles]
+mesh0=shrub.mesh;0 0 0;1 1 1;1 0 0 0;Barnacles;Barnacles;
+[Musselbed]
+mesh0=shrub.mesh;0 0 0;1 1 1;1 0 0 0;Musselbed;Musselbed;
+[Clamhalf]
+mesh0=%groundpallisade.mesh;0 0 0;10 4 10;1 0 0 0;Clamhalf;
+[BrainCoral]
+mesh0=%groundpallisade.mesh;0 0 0;20 15 20;1 0 0 0;BrainCoral;
+[Limpet]
+mesh0=%groundpallisade.mesh;0 0 0;7 3 7;1 0 0 0;Limpet;
+[Starfish]
+mesh0=%groundpallisade.mesh;0.1 0 0.15;9 5 9;1 0 0 0;Starfish;
+mesh1=%groundpallisade.mesh;-3.6 0 3.95;10.818 2.8 3.84699;0.908143 0 0.41866 0;Starfish;
+mesh2=%groundpallisade.mesh;2.6 0 4.55;10.818 2 3.84699;0.492043 0 0.870571 0;Starfish;
+mesh3=%groundpallisade.mesh;4 0 -1;10.82 2.8 3.84699;-0.212008 0 0.977268 0;Starfish;
+mesh4=%groundpallisade.mesh;-4.15 0 -1.6;10.82 2.8 3.84699;0.955793 0 -0.29404 0;Starfish;
+mesh5=%groundpallisade.mesh;0.3 0 -5;10.818 2.8 3.84699;-0.685691 0 0.727892 0;Starfish;
+[Pearl]
+mesh0=basicsphere.mesh;0 0 0;0.05 0.05 0.05;1 0 0 0;crystalMat;

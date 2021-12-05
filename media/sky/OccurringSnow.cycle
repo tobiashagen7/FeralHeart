@@ -1,0 +1,16 @@
+[876-1276]
+type=Snow
+fade=in
+[1276-1876]
+type=Snow
+[1876-2476]
+type=Snow
+fade=out
+[4002-4702]
+type=Snow
+fade=in
+[4702-5402]
+type=Snow
+[5402-6102]
+type=Snow
+fade=out

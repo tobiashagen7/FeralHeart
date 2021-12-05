@@ -1,0 +1,26 @@
+[FirstDen]
+mesh0=%den.mesh;0 0 0;2 2 2;1 0 0 0;rockMat;
+[FirstDen2]
+mesh0=%den.mesh;0 0 0;2 2 2;1 0 0 0;rockMat2;
+[FirstDen3]
+mesh0=%den.mesh;0 0 0;2 2 2;1 0 0 0;rockMat4;
+[FirstDen4]
+mesh0=%den.mesh;0 0 0;2 2 2;1 0 0 0;rockMat7;
+[SecondDen]
+mesh0=%cave1.mesh;0 0 0;3 3 3;1 0 0 0;rockMat;
+[SecondDen2]
+mesh0=%cave1.mesh;0 0 0;3 3 3;1 0 0 0;rockMat2;
+[SecondDen3]
+mesh0=%cave1.mesh;0 0 0;3 3 3;1 0 0 0;rockMat4;
+[SecondDen4]
+mesh0=%cave1.mesh;0 0 0;3 3 3;1 0 0 0;rockMat7;
+[Elephantskull]
+mesh0=%elephantskull.mesh;0 -12.2 0;0.5 0.5 0.5;0.972553 -0.232682 0 0;
+[Elephantspine]
+mesh0=%ElephantSpine.mesh;0 0 0;0.5 0.5 0.5;1 0 0 0;
+[Ceiling]
+mesh0=ceiling.mesh;0 62.8002 0;50 50 50;1 0 0 0;CeilingMat;
+[Ceiling2]
+mesh0=ceiling.mesh;0 62.8002 0;50 50 50;1 0 0 0;rockMat;
+[Ceiling3]
+mesh0=ceiling.mesh;0 62.8002 0;50 50 50;1 0 0 0;rockMat4;

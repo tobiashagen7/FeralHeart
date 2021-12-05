@@ -1,0 +1,8 @@
+[CollBox]
+coll0=b;0 0 0;30 30 30;
+[CollSphere]
+coll0=s;0 0 0;30;
+[WaterBox]
+coll0=wb;0 0 0;30 30 30;
+[WaterSphere]
+coll0=ws;0 0 0;30;

@@ -1,0 +1,13 @@
+material feather
+{
+	technique
+	{
+		pass
+		{
+			texture_unit
+			{
+				texture featherTex.png
+			}
+		}
+	}
+}

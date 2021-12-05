@@ -1,0 +1,7 @@
+[Starfall]
+ps=Weather/Starfall
+offset=0 1 0
+rate=0.01
+skytop=0.0497805 0.0937044 0.148609 1
+skybot=0.0424599 0.0607615 0.15227 1
+clouds=0.166911 0.185212 0.335286 1

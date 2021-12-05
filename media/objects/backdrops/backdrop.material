@@ -1,0 +1,231 @@
+material backdrop1
+{
+	transparency_casts_shadows off
+	receive_shadows off
+	technique
+	{
+		pass
+		{
+			//lighting off
+			cull_hardware none
+			cull_software none
+			scene_blend alpha_blend
+			alpha_rejection greater_equal 128
+			
+			texture_unit
+			{
+				texture SuperDrop.png
+			}
+		}
+	}
+}
+material backdrop2
+{
+	transparency_casts_shadows off
+	receive_shadows off
+	technique
+	{
+		pass
+		{
+			//lighting off
+			cull_hardware none
+			cull_software none
+			scene_blend alpha_blend
+			alpha_rejection greater_equal 128
+			
+			texture_unit
+			{
+				texture FirDrop.png
+			}
+		}
+	}
+}
+material backdrop3
+{
+	transparency_casts_shadows off
+	receive_shadows off
+	technique
+	{
+		pass
+		{
+			//lighting off
+			cull_hardware none
+			cull_software none
+			scene_blend alpha_blend
+			alpha_rejection greater_equal 128
+			
+			texture_unit
+			{
+				texture SavannahDrop.png
+			}
+		}
+	}
+}
+material backdrop4
+{
+	transparency_casts_shadows off
+	receive_shadows off
+	technique
+	{
+		pass
+		{
+			//lighting off
+			cull_hardware none
+			cull_software none
+			scene_blend alpha_blend
+			alpha_rejection greater_equal 128
+			
+			texture_unit
+			{
+				texture SnowDrop.png
+			}
+		}
+	}
+}
+material backdrop5
+{
+	transparency_casts_shadows off
+	receive_shadows off
+	technique
+	{
+		pass
+		{
+			//lighting off
+			cull_hardware none
+			cull_software none
+			scene_blend alpha_blend
+			alpha_rejection greater_equal 128
+			
+			texture_unit
+			{
+				texture SpringDrop.png
+			}
+		}
+	}
+}
+material backdrop6
+{
+	transparency_casts_shadows off
+	receive_shadows off
+	technique
+	{
+		pass
+		{
+			//lighting off
+			cull_hardware none
+			cull_software none
+			scene_blend alpha_blend
+			alpha_rejection greater_equal 128
+			
+			texture_unit
+			{
+				texture TropicalDrop.png
+			}
+		}
+	}
+}
+material backdrop7
+{
+	transparency_casts_shadows off
+	receive_shadows off
+	technique
+	{
+		pass
+		{
+			//lighting off
+			cull_hardware none
+			cull_software none
+			scene_blend alpha_blend
+			alpha_rejection greater_equal 128
+			
+			texture_unit
+			{
+				texture FirDrop2.png
+			}
+		}
+	}
+}
+material backdrop8
+{
+	transparency_casts_shadows off
+	receive_shadows off
+	technique
+	{
+		pass
+		{
+			//lighting off
+			cull_hardware none
+			cull_software none
+			scene_blend alpha_blend
+			alpha_rejection greater_equal 128
+			
+			texture_unit
+			{
+				texture SavannahDrop2.png
+			}
+		}
+	}
+}
+material backdrop9
+{
+	transparency_casts_shadows off
+	receive_shadows off
+	technique
+	{
+		pass
+		{
+			//lighting off
+			cull_hardware none
+			cull_software none
+			scene_blend alpha_blend
+			alpha_rejection greater_equal 128
+			
+			texture_unit
+			{
+				texture ForestDrop.png
+			}
+		}
+	}
+}
+material backdrop10
+{
+	transparency_casts_shadows off
+	receive_shadows off
+	technique
+	{
+		pass
+		{
+			//lighting off
+			cull_hardware none
+			cull_software none
+			scene_blend alpha_blend
+			alpha_rejection greater_equal 128
+			
+			texture_unit
+			{
+				texture ForestDrop2.png
+			}
+		}
+	}
+}
+material backdrop11
+{
+	transparency_casts_shadows off
+	receive_shadows off
+	technique
+	{
+		pass
+		{
+			//lighting off
+			cull_hardware none
+			cull_software none
+			scene_blend alpha_blend
+			alpha_rejection greater_equal 128
+			
+			texture_unit
+			{
+				texture ForestDrop3.png
+			}
+		}
+	}
+}

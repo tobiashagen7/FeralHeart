@@ -1,0 +1,168 @@
+material BlueAnemone
+{
+	transparency_casts_shadows off
+	receive_shadows off
+	technique
+	{
+		pass
+		{
+			diffuse 0.05 0.05 0.05 1
+			cull_hardware none
+			cull_software none
+
+			alpha_rejection greater_equal 128
+
+			texture_unit
+			{
+				texture BlueAnemone.png
+			}
+		}
+	}
+}
+material GreenAnemone
+{
+	transparency_casts_shadows off
+	receive_shadows off
+	technique
+	{
+		pass
+		{
+			diffuse 0.05 0.05 0.05 1
+			cull_hardware none
+			cull_software none
+
+			alpha_rejection greater_equal 128
+
+			texture_unit
+			{
+				texture GreenAnemone.png
+			}
+		}
+	}
+}
+material Barnacles
+{
+	transparency_casts_shadows off
+	receive_shadows off
+	technique
+	{
+		pass
+		{
+			diffuse 0.05 0.05 0.05 1
+			cull_hardware none
+			cull_software none
+
+			alpha_rejection greater_equal 128
+
+			texture_unit
+			{
+				texture Barnacles.png
+			}
+		}
+	}
+}
+material Musselbed
+{
+	transparency_casts_shadows off
+	receive_shadows off
+	technique
+	{
+		pass
+		{
+			diffuse 0.05 0.05 0.05 1
+			cull_hardware none
+			cull_software none
+
+			alpha_rejection greater_equal 128
+
+			texture_unit
+			{
+				texture Musselbed.png
+			}
+		}
+	}
+}
+material Clamhalf
+{
+	transparency_casts_shadows off
+	receive_shadows off
+	technique
+	{
+		pass
+		{
+			diffuse 0.05 0.05 0.05 1
+			cull_hardware none
+			cull_software none
+
+			alpha_rejection greater_equal 128
+
+			texture_unit
+			{
+				texture ClamShell.png
+			}
+		}
+	}
+}
+material BrainCoral
+{
+	transparency_casts_shadows off
+	receive_shadows off
+	technique
+	{
+		pass
+		{
+			diffuse 0.05 0.05 0.05 1
+			cull_hardware none
+			cull_software none
+
+			alpha_rejection greater_equal 128
+
+			texture_unit
+			{
+				texture BrainCoral.png
+			}
+		}
+	}
+}
+material Limpet
+{
+	transparency_casts_shadows off
+	receive_shadows off
+	technique
+	{
+		pass
+		{
+			diffuse 0.05 0.05 0.05 1
+			cull_hardware none
+			cull_software none
+
+			alpha_rejection greater_equal 128
+
+			texture_unit
+			{
+				texture Limpet.png
+			}
+		}
+	}
+}
+material Starfish
+{
+	transparency_casts_shadows off
+	receive_shadows off
+	technique
+	{
+		pass
+		{
+			diffuse 0.05 0.05 0.05 1
+			cull_hardware none
+			cull_software none
+
+			alpha_rejection greater_equal 128
+
+			texture_unit
+			{
+				texture Starfish.png
+			}
+		}
+	}
+}

@@ -1,0 +1,8 @@
+[4463-4963]
+type=Snow
+fade=in
+[4963-5563]
+type=Snow
+[5563-6163]
+type=Snow
+fade=out

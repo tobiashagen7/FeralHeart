@@ -1,0 +1,14 @@
+[StarAura]
+particle0=StarAura;0 0 0;1 1 1;1 0 0 0
+particle1=StarAura;0 0 0;1 1 1;1 0 0 0
+[WaterSplash]
+particle0=WaterSplash;0 0 0;1 1 1;1 0 0 0
+[WaterfallSmoke]
+particle0=WaterfallSmoke;0 0 0;0.2 0.2 0.2;1 0 0 0
+[FireBright]
+particle0=Fire/Campfire;0 0 0;1 1 1;1 0 0 0
+light0=0 -4.15 0;0.763672 0.333984 0.126953 1
+[Fire]
+particle0=Fire/Campfire;0 0 0;1 1 1;1 0 0 0
+[FireSmoke]
+particle0=Fire/Smoke;0 0 0;1 1 1;1 0 0 0

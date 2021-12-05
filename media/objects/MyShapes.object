@@ -1,0 +1,10 @@
+[BasicCone]
+mesh0=%basiccone.mesh;0 0 0;1 1 1;1 0 0 0;
+[BasicCube]
+mesh0=%basiccube.mesh;0 0 0;1 1 1;1 0 0 0;
+[BasicCylinder]
+mesh0=%basiccylinder.mesh;0 0 0;1 1 1;1 0 0 0;
+[BasicRing]
+mesh0=%basicring.mesh;0 0 0;3 3 3;1 0 0 0;
+[BasicSphere]
+mesh0=%basicSphere.mesh;0 0 0;1 1 1;1 0 0 0;

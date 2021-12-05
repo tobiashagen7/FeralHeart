@@ -1,0 +1,24 @@
+[Map]
+Name=Bonfire Islands
+Seed=yL2g4VYfme
+[Terrain]
+Filename=tempTerrain.cfg
+Size=19000 19000
+Boundary=4000
+[Sky]
+HasSky=true
+[Objects]
+Filename=tempObjects.cfg
+[Gates]
+Filename=tempGates.cfg
+[Water]
+Filename=tempWater.cfg
+Ocean=9500 125 9500
+OceanSize=22800 22800
+[MapMaker]
+StartPos=6516.11 483.933 4309.69
+[Weather]
+[Portal]
+HasPortal=true
+Position=0 0 0
+Yaw=0

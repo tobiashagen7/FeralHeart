@@ -1,0 +1,187 @@
+material flatplane
+{
+	transparency_casts_shadows off
+	receive_shadows off
+	
+	technique
+	{
+		pass
+		{
+			ambient 0.500000 0.500000 0.500000 1.000000
+			diffuse 0.600000 0.600000 0.600000 1.000000
+
+			texture_unit
+			{
+				texture flatplane.png
+			}
+		}
+	}
+}
+material flatplane1
+{
+	transparency_casts_shadows off
+	receive_shadows off
+	technique
+	{
+		pass
+		{
+			//lighting off
+			cull_hardware none
+			cull_software none
+			scene_blend alpha_blend
+			alpha_rejection greater_equal 199
+			
+			texture_unit
+			{
+				texture flatplane1.png
+			}
+		}
+	}
+}
+material flatplane2
+{
+	transparency_casts_shadows off
+	receive_shadows off
+	technique
+	{
+		pass
+		{
+			//lighting off
+			cull_hardware none
+			cull_software none
+			scene_blend alpha_blend
+			alpha_rejection greater_equal 199
+			
+			texture_unit
+			{
+				texture flatplane2.png
+			}
+		}
+	}
+}
+material flatplane3
+{
+	transparency_casts_shadows off
+	receive_shadows off
+	technique
+	{
+		pass
+		{
+			//lighting off
+			cull_hardware none
+			cull_software none
+			scene_blend alpha_blend
+			alpha_rejection greater_equal 199
+			
+			texture_unit
+			{
+				texture flatplane3.png
+			}
+		}
+	}
+}
+material flatplane4
+{
+	transparency_casts_shadows off
+	receive_shadows off
+	technique
+	{
+		pass
+		{
+			//lighting off
+			cull_hardware none
+			cull_software none
+			scene_blend alpha_blend
+			alpha_rejection greater_equal 199
+			
+			texture_unit
+			{
+				texture flatplane4.png
+			}
+		}
+	}
+}
+material flatplane5
+{
+	transparency_casts_shadows off
+	receive_shadows off
+	technique
+	{
+		pass
+		{
+			//lighting off
+			cull_hardware none
+			cull_software none
+			scene_blend alpha_blend
+			alpha_rejection greater_equal 199
+			
+			texture_unit
+			{
+				texture flatplane5.png
+			}
+		}
+	}
+}
+material flatplanefhlogo
+{
+	transparency_casts_shadows off
+	receive_shadows off
+	technique
+	{
+		pass
+		{
+			lighting off
+			cull_hardware none
+			cull_software none
+			scene_blend alpha_blend
+			alpha_rejection greater_equal 199
+			
+			texture_unit
+			{
+				texture flatplanefhlogo.png
+			}
+		}
+	}
+}
+material flatplanewhite
+{
+	transparency_casts_shadows off
+	receive_shadows off
+	technique
+	{
+		pass
+		{
+			lighting off
+			cull_hardware none
+			cull_software none
+			scene_blend alpha_blend
+			alpha_rejection greater_equal 0
+			
+			texture_unit
+			{
+				texture flatplanewhite.png
+			}
+		}
+	}
+}
+material flatplanewhiteshade
+{
+	transparency_casts_shadows off
+	receive_shadows off
+	technique
+	{
+		pass
+		{
+			lighting off
+			cull_hardware none
+			cull_software none
+			scene_blend alpha_blend
+			alpha_rejection greater_equal 0
+			
+			texture_unit
+			{
+				texture flatplanewhiteshade.png
+			}
+		}
+	}
+}

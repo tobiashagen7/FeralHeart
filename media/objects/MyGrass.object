@@ -1,0 +1,48 @@
+[BigPatch]
+mesh0=biggrasspatch.mesh;0 0 0;1 1 1;1 0 0 0;
+[BigPatchy]
+mesh0=biggrasspatch.mesh;0 0 0;1 1 1;1 0 0 0;bigpatchy;
+[BigPatchd]
+mesh0=biggrasspatch.mesh;0 0 0;1 1 1;1 0 0 0;bigpatchd;
+[BigPatchr]
+mesh0=biggrasspatch.mesh;0 0 0;1 1 1;1 0 0 0;bigpatchr;
+[MiddlePatch]
+mesh0=middlegrasspatch.mesh;0 0 0;1 1 1;1 0 0 0;
+[MiddlePatchy]
+mesh0=middlegrasspatch.mesh;0 0 0;1 1 1;1 0 0 0;middlepatchy;
+[MiddlePatchd]
+mesh0=middlegrasspatch.mesh;0 0 0;1 1 1;1 0 0 0;middlepatchd;
+[MiddlePatchr]
+mesh0=middlegrasspatch.mesh;0 0 0;1 1 1;1 0 0 0;middlepatchr;
+[ThickGrassPatch]
+mesh0=grass.mesh;0 0 0;1.198 1.07 1.197;1 0 0 0;ThickgrassMat;
+mesh1=grass.mesh;7.25 0 0;1 0.914 1;0.9754 0 0.220442 0;ThickgrassMat;
+mesh2=grass.mesh;-7.25 0 0;1 0.939 1;0.416518 0 -0.909127 0;ThickgrassMat;
+mesh3=grass.mesh;0 0 -6.2;1 0.931 1;0.445572 0 0.895246 0;ThickgrassMat;
+mesh4=grass.mesh;0 0 7.55;1 0.936 1;-0.924779 0 -0.380506 0;ThickgrassMat;
+[ThickGrassyPatch]
+mesh0=grass.mesh;0 0 0;1.198 1.07 1.197;1 0 0 0;ThickgrassyMat;
+mesh1=grass.mesh;7.25 0 0;1 0.914 1;0.9754 0 0.220442 0;ThickgrassyMat;
+mesh2=grass.mesh;-7.25 0 0;1 0.939 1;0.416518 0 -0.909127 0;ThickgrassyMat;
+mesh3=grass.mesh;0 0 -6.2;1 0.931 1;0.445572 0 0.895246 0;ThickgrassyMat;
+mesh4=grass.mesh;0 0 7.55;1 0.936 1;-0.924779 0 -0.380506 0;ThickgrassyMat;
+[ThickGrassdPatch]
+mesh0=grass.mesh;0 0 0;1.198 1.07 1.197;1 0 0 0;ThickgrassdMat;
+mesh1=grass.mesh;7.25 0 0;1 0.914 1;0.9754 0 0.220442 0;ThickgrassdMat;
+mesh2=grass.mesh;-7.25 0 0;1 0.939 1;0.416518 0 -0.909127 0;ThickgrassdMat;
+mesh3=grass.mesh;0 0 -6.2;1 0.931 1;0.445572 0 0.895246 0;ThickgrassdMat;
+mesh4=grass.mesh;0 0 7.55;1 0.936 1;-0.924779 0 -0.380506 0;ThickgrassdMat;
+[ThickGrassrPatch]
+mesh0=grass.mesh;0 0 0;1.198 1.07 1.197;1 0 0 0;ThickgrassrMat;
+mesh1=grass.mesh;7.25 0 0;1 0.914 1;0.9754 0 0.220442 0;ThickgrassrMat;
+mesh2=grass.mesh;-7.25 0 0;1 0.939 1;0.416518 0 -0.909127 0;ThickgrassrMat;
+mesh3=grass.mesh;0 0 -6.2;1 0.931 1;0.445572 0 0.895246 0;ThickgrassrMat;
+mesh4=grass.mesh;0 0 7.55;1 0.936 1;-0.924779 0 -0.380506 0;ThickgrassrMat;
+[OldGrassPatch]
+mesh0=grasspatchold.mesh;0 0 0;1 1 1;1 0 0 0;GrassPatchOldMat;
+[OldGrassyPatch]
+mesh0=grasspatchold.mesh;0 0 0;1 1 1;1 0 0 0;GrassPatchOldyMat;
+[OldGrassdPatch]
+mesh0=grasspatchold.mesh;0 0 0;1 1 1;1 0 0 0;GrassPatchOldsMat;
+[OldGrassrPatch]
+mesh0=grasspatchold.mesh;0 0 0;1 1 1;1 0 0 0;GrassPatchOldrMat;

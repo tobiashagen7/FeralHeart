@@ -1,0 +1,8 @@
+[4059-4459]
+type=LightRain
+fade=in
+[4459-5059]
+type=Rain
+[5059-5459]
+type=LightRain
+fade=out

@@ -1,0 +1,38 @@
+material Icicles
+{
+	technique
+	{
+		pass
+		{
+			cull_hardware none
+			cull_software none
+			alpha_rejection greater_equal 128
+  		        scene_blend colour_blend
+  		        depth_write off
+			texture_unit
+			{
+				texture Icicles.png
+			}
+		}
+	}
+}
+material IciclesBlue
+{
+	transparency_casts_shadows off
+	receive_shadows off
+	technique
+	{
+		pass
+		{
+			cull_hardware none
+			cull_software none
+			alpha_rejection greater_equal 128
+  		        scene_blend colour_blend
+  		        depth_write off
+			texture_unit
+			{
+				texture IciclesBlue.png
+			}
+		}
+	}
+}

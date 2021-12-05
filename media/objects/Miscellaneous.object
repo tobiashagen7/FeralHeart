@@ -1,0 +1,31 @@
+[Structure1]
+mesh0=%basicring.mesh;0 100 0;5 5 5;1 0 0 0;rockMat3;
+mesh1=%basiccylinder.mesh;100 0 0;0.7 5 1;1 0 0 0;rockMat2;
+mesh2=%basiccylinder.mesh;-100 0 0;0.7 5 1;1 0 0 0;rockMat2;
+mesh3=%basiccylinder.mesh;0 0 100;1 5 0.7;1 0 0 0;rockMat2;
+mesh4=%basiccylinder.mesh;0 0 -100;1 5 0.7;1 0 0 0;rockMat2;
+[Structure2]
+mesh0=%BasicSphere.mesh;0 -40 0;2 2 2;1 0 0 0;rockMat4;
+mesh1=%BasicRing.mesh;0 0 0;5 20 5;1 0 0 0;rockMat6;
+[Structure3]
+mesh0=%basiccube.mesh;0 50 0;5 0.2 5;1 0 0 0;rockMat3;
+mesh1=%basiccylinder.mesh;0 0 0;1 2.5 1;1 0 0 0;rockMat2;
+mesh2=%basiccube.mesh;0 18.876 -140.102;5 0.2 5;0.976597 -0.215076 0 0;rockMat2;
+[Globe]
+mesh0=globe.mesh;0 0 0;15 15 15;1 0 0 0;
+[Sign]
+mesh0=%fhsign.mesh;0 -30 0;5 5 5;1 0 0 0;
+[Vine]
+mesh0=vine.mesh;0 0 0;1 1 1;1 0 0 0;
+[Crystal]
+mesh0=crystal1.mesh;0 2 0;2 3 2;1 0 0 0;
+coll0=s;0 4 0;5;
+billboard0=crystalGlowMat;0 4.2 0;30 30
+[Log1]
+mesh0=%baumstamm.mesh;0 0 0;5 5 5;1 0 0 0;
+[Log2]
+mesh0=%baumstamm.mesh;0 0 0;5 5 5;1 0 0 0;baumstamm2;
+[IciclesBright]
+mesh0=grass.mesh;0 0 0;3 1 3;1 0 0 0;Icicles;
+[IciclesDark]
+mesh0=grass.mesh;0 0 0;1 1 1;1 0 0 0;IciclesBlue;

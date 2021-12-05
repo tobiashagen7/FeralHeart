@@ -1,0 +1,36 @@
+[Forest]
+sound=ForestSound.mp3
+coll0=b;0 0 0;3 3 3;
+[Waterfall]
+sound=WaterfallSound.mp3
+coll0=b;0 0 0;3 3 3;
+[Waterfall2]
+sound=WaterfallSound2.mp3
+coll0=b;0 0 0;3 3 3;
+[Wind]
+sound=WindSound.mp3
+coll0=b;0 0 0;3 3 3;
+[Stream]
+sound=StreamSound.mp3
+coll0=b;0 0 0;3 3 3;
+[Island]
+sound=IslandSound.mp3
+coll0=b;0 0 0;3 3 3;
+[Seawaves]
+sound=SeawavesSound.mp3
+coll0=b;0 0 0;3 3 3;
+[Seagulls]
+sound=SeagullsSound.mp3
+coll0=b;0 0 0;3 3 3;
+[Underwater]
+sound=UnderwaterSound.mp3
+coll0=b;0 0 0;3 3 3;
+[FireSound]
+sound=FireSound.wav
+coll0=b;0 0 0;3 3 3;
+[Bonfire]
+sound=bonfire.mp3
+coll0=b;0 0 0;3 3 3;
+[Aura]
+sound=aura.mp3
+coll0=b;0 0 0;3 3 3;

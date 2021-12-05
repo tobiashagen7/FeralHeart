@@ -1,0 +1,16 @@
+material silver
+{
+	technique
+	{
+		pass
+		{
+			lighting on
+			scene_blend alpha_blend
+			texture_unit
+			{
+				env_map spherical
+				texture silver.png
+			}
+		}
+	}
+}

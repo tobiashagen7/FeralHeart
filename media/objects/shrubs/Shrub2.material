@@ -1,0 +1,45 @@
+material ShrubMat
+{
+	technique
+	{
+		pass
+		{
+			cull_hardware none
+			cull_software none
+			texture_unit
+			{
+				texture shrubLeaf.jpg
+			}
+		}
+	}
+}
+material ShrubdeadMat
+{
+	technique
+	{
+		pass
+		{
+			cull_hardware none
+			cull_software none
+			texture_unit
+			{
+				texture shrubLeafdead.jpg
+			}
+		}
+	}
+}
+material ShrubSnowMat
+{
+	technique
+	{
+		pass
+		{
+			cull_hardware none
+			cull_software none
+			texture_unit
+			{
+				texture shrubLeafSnow.jpg
+			}
+		}
+	}
+}

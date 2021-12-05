@@ -1,0 +1,160 @@
+material bigpatch
+{
+	transparency_casts_shadows off
+	receive_shadows off
+	technique
+	{
+		pass
+		{
+			//lighting off
+			cull_hardware none
+			cull_software none
+			alpha_rejection greater_equal 128
+			
+			texture_unit
+			{
+				texture biggrasspatch.png
+			}
+		}
+	}
+}
+material middlepatch
+{
+	transparency_casts_shadows off
+	receive_shadows off
+	technique
+	{
+		pass
+		{
+			//lighting off
+			cull_hardware none
+			cull_software none
+			alpha_rejection greater_equal 128
+			
+			texture_unit
+			{
+				texture biggrasspatch.png
+			}
+		}
+	}
+}
+material bigpatchy
+{
+	transparency_casts_shadows off
+	receive_shadows off
+	technique
+	{
+		pass
+		{
+			//lighting off
+			cull_hardware none
+			cull_software none
+			alpha_rejection greater_equal 128
+			
+			texture_unit
+			{
+				texture biggrasspatchyellow.png
+			}
+		}
+	}
+}
+material middlepatchy
+{
+	transparency_casts_shadows off
+	receive_shadows off
+	technique
+	{
+		pass
+		{
+			//lighting off
+			cull_hardware none
+			cull_software none
+			alpha_rejection greater_equal 128
+			
+			texture_unit
+			{
+				texture biggrasspatchyellow.png
+			}
+		}
+	}
+}
+material bigpatchd
+{
+	transparency_casts_shadows off
+	receive_shadows off
+	technique
+	{
+		pass
+		{
+			//lighting off
+			cull_hardware none
+			cull_software none
+			alpha_rejection greater_equal 128
+			
+			texture_unit
+			{
+				texture biggrasspatchdark.png
+			}
+		}
+	}
+}
+material middlepatchd
+{
+	transparency_casts_shadows off
+	receive_shadows off
+	technique
+	{
+		pass
+		{
+			//lighting off
+			cull_hardware none
+			cull_software none
+			alpha_rejection greater_equal 128
+			
+			texture_unit
+			{
+				texture biggrasspatchdark.png
+			}
+		}
+	}
+}
+material bigpatchr
+{
+	transparency_casts_shadows off
+	receive_shadows off
+	technique
+	{
+		pass
+		{
+			//lighting off
+			cull_hardware none
+			cull_software none
+			alpha_rejection greater_equal 128
+			
+			texture_unit
+			{
+				texture biggrasspatchred.png
+			}
+		}
+	}
+}
+material middlepatchr
+{
+	transparency_casts_shadows off
+	receive_shadows off
+	technique
+	{
+		pass
+		{
+			//lighting off
+			cull_hardware none
+			cull_software none
+			alpha_rejection greater_equal 128
+			
+			texture_unit
+			{
+				texture biggrasspatchred.png
+			}
+		}
+	}
+}

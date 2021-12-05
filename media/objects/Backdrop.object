@@ -1,0 +1,22 @@
+[Superdrop]
+mesh0=Backdrop.mesh;0 0 0;2 2 2;1 0 0 0;backdrop1;
+[Firdrop]
+mesh0=Backdrop.mesh;0 0 0;2 2 2;1 0 0 0;backdrop2;
+[Savannahdrop]
+mesh0=Backdrop.mesh;0 0 0;2 2 2;1 0 0 0;backdrop3;
+[Savannahdrop2]
+mesh0=backdrop.mesh;0 0 0;2 2 2;1 0 0 0;backdrop8;
+[Snowdrop]
+mesh0=Backdrop.mesh;0 0 0;2 2 2;1 0 0 0;backdrop4;
+[Springdrop]
+mesh0=Backdrop.mesh;0 0 0;2 2 2;1 0 0 0;backdrop5;
+[Tropicaldrop]
+mesh0=Backdrop.mesh;0 0 0;2 2 2;1 0 0 0;backdrop6;
+[Firdrop2]
+mesh0=backdrop.mesh;0 0 0;2 2 2;1 0 0 0;backdrop7;
+[Forestdrop]
+mesh0=Backdrop.mesh;0 0 0;2 2 2;1 0 0 0;backdrop9;
+[Forestdrop2]
+mesh0=Backdrop.mesh;0 0 0;2 2 2;1 0 0 0;backdrop10;
+[Forestdrop3]
+mesh0=Backdrop.mesh;0 0 0;2 2 2;1 0 0 0;backdrop11;

@@ -1,0 +1,32 @@
+[RoundMount1]
+mesh0=%mount1.mesh;0 0 0;15 15 15;1 0 0 0;rockMat;
+[RoundMount2]
+mesh0=%mount1.mesh;0 0 0;15 15 15;1 0 0 0;rockMat2;
+[RoundMount3]
+mesh0=%mount1.mesh;0 0 0;15 15 15;1 0 0 0;rockMat6;
+[RoundMount4]
+mesh0=%mount1.mesh;0 0 0;15 15 15;1 0 0 0;rockMat7;
+[SpikeyMount1]
+mesh0=%mount2.mesh;0 0 0;15 15 15;1 0 0 0;rockMat;
+[SpikeyMount2]
+mesh0=%mount2.mesh;0 0 0;15 15 15;1 0 0 0;rockMat2;
+[SpikeyMount3]
+mesh0=%mount2.mesh;0 0 0;15 15 15;1 0 0 0;rockMat6;
+[SpikeyMount4]
+mesh0=%mount2.mesh;0 0 0;15 15 15;1 0 0 0;rockMat7;
+[SlopeMount1]
+mesh0=%mount3.mesh;0 0 0;15 15 15;1 0 0 0;rockMat;
+[SlopeMount2]
+mesh0=%mount3.mesh;0 0 0;15 15 15;1 0 0 0;rockMat2;
+[SlopeMount3]
+mesh0=%mount3.mesh;0 0 0;15 15 15;1 0 0 0;rockMat6;
+[SlopeMount4]
+mesh0=%mount3.mesh;0 0 0;15 15 15;1 0 0 0;rockMat7;
+[FlatMount1]
+mesh0=%mount4.mesh;0 0 0;15 15 15;1 0 0 0;rockMat;
+[FlatMount2]
+mesh0=%mount4.mesh;0 0 0;15 15 15;1 0 0 0;rockMat2;
+[FlatMount3]
+mesh0=%mount4.mesh;0 0 0;15 15 15;1 0 0 0;rockMat6;
+[FlatMount4]
+mesh0=%mount4.mesh;0 0 0;15 15 15;1 0 0 0;rockMat7;
