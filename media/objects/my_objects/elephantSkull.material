@@ -1,0 +1,26 @@
+material ESkullMat
+{
+	technique
+	{
+		pass
+		{
+			texture_unit
+			{
+				texture oldelephantSkull_elephantSkull.png
+			}
+		}
+	}
+}
+material ESpineMat
+{
+	technique
+	{
+		pass
+		{
+			texture_unit
+			{
+				texture oldeSpineTex.jpg
+			}
+		}
+	}
+}

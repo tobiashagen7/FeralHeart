@@ -1,0 +1,26 @@
+material WaterFallMat
+{
+	technique
+	{
+		pass
+		{
+			lighting off
+			cull_hardware none
+			cull_software none
+			scene_blend alpha_blend
+			depth_write off
+
+			texture_unit
+			{
+				texture oldwaterfall1.png
+				scroll_anim 0 0.8
+			}
+			texture_unit
+			{
+				texture oldwaterfallMask1.png
+				scroll_anim 0 0.6
+				colour_op modulate
+			}
+		}
+	}
+}

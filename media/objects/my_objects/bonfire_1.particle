@@ -1,0 +1,36 @@
+particle_system BonfireSpark
+{
+    material FXMat/Star
+    particle_width 2
+    particle_height 2
+    cull_each false
+    quota 10000
+
+    emitter Point
+    {
+        angle 30
+        emission_rate 5
+        time_to_live 2.5
+        direction 0 1 1
+        velocity_min 0
+        velocity_max 1
+	colour_range_start 1 0.75 0
+    	colour_range_end 1 0.95 0
+    }
+    affector LinearForce
+    {
+        force_vector -2 40 -1
+        force_application add
+    }
+    affector ColourFader
+    {
+        red -0.1
+        green -0.1
+        blue -0.1
+    }
+    affector DirectionRandomiser
+    {
+	randomness 100
+	scope 1
+    }
+}
