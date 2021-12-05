@@ -1,5 +1,5 @@
 import AlphaSplatTerrain2 from "terrain.material"
-material Terrain/temp : AlphaSplatTerrain2
+material Terrain/oldLonelyCave : AlphaSplatTerrain2
 {
 technique
 {

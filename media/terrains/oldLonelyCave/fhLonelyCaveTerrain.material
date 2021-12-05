@@ -1,5 +1,5 @@
 import AlphaSplatTerrain2 from "terrain.material"
-material Terrain/temp : AlphaSplatTerrain2
+material Terrain/fhLonelyCave : AlphaSplatTerrain2
 {
 technique
 {
@@ -17,10 +17,10 @@ param_named alpha1Mask float4 1 0 0 0
 }
 }
 }
-set_texture_alias AlphaMap1 oldLonelyCaveMask.png
-set_texture_alias AlphaMap2 oldLonelyCaveMask2.png
-set_texture_alias Splat1 oldbrownishstone.jpg
-set_texture_alias Splat2 oldceiling.jpg
-set_texture_alias Splat3 oldlightbeachsand.jpg
-set_texture_alias Splat4 oldflowergrass2.jpg
+set_texture_alias AlphaMap1 fhLonelyCaveMask.png
+set_texture_alias AlphaMap2 fhLonelyCaveMask2.png
+set_texture_alias Splat1 brownishstone.jpg
+set_texture_alias Splat2 ceiling.jpg
+set_texture_alias Splat3 lightbeachsand.jpg
+set_texture_alias Splat4 flowergrass2.jpg
 }

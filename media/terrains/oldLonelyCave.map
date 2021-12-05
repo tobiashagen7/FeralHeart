@@ -1,23 +1,22 @@
 [Map]
 Name=Old Lonely Cave
-Seed=yL2g4VYfme
+Seed=3s3vh2S66I
 [Terrain]
-Filename=tempTerrain.cfg
+Filename=oldLonelyCaveTerrain.cfg
 Size=5000 5000
 Boundary=1000
 [Sky]
 HasSky=true
 [Objects]
-Filename=tempObjects.cfg
+Filename=oldLonelyCaveObjects.cfg
 [Gates]
-Filename=tempGates.cfg
+Filename=oldLonelyCaveGates.cfg
 [Water]
-Filename=tempWater.cfg
+Filename=oldLonelyCaveWater.cfg
 Ocean=2500 50 2500
 OceanSize=6000 6000
 [MapMaker]
-StartPos=2414.37 246.466 2547.17
-[Weather]
+StartPos=3597.19 311.097 2842.31
 [Portal]
 HasPortal=true
 Position=3742.13 29.5498 2530.64
