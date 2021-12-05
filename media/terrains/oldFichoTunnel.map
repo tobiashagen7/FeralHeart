@@ -1,0 +1,21 @@
+[Map]
+Name=Ficho Tunnel
+Seed=6o15258F37
+[Terrain]
+Filename=oldFichoTunnelTerrain.cfg
+Size=5000 5000
+Boundary=0
+[Sky]
+HasSky=false
+CeilingMat=CeilingMat
+CeilingHeight=500
+[Objects]
+Filename=oldFichoTunnelObjects.cfg
+[Gates]
+Filename=oldFichoTunnelGates.cfg
+[Water]
+Filename=oldFichoTunnelWater.cfg
+Ocean=2500 50 2500
+OceanSize=6000 6000
+[MapMaker]
+StartPos=4183.05 418.655 4494.39

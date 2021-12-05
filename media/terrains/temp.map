@@ -1,24 +1,22 @@
 [Map]
-Name=Bonfire Islands
+Name=Ficho Tunnel
 Seed=yL2g4VYfme
 [Terrain]
 Filename=tempTerrain.cfg
-Size=19000 19000
-Boundary=4000
+Size=5000 5000
+Boundary=0
 [Sky]
-HasSky=true
+HasSky=false
+CeilingMat=CeilingMat
+CeilingHeight=500
 [Objects]
 Filename=tempObjects.cfg
 [Gates]
 Filename=tempGates.cfg
 [Water]
 Filename=tempWater.cfg
-Ocean=9500 125 9500
-OceanSize=22800 22800
+Ocean=2500 50 2500
+OceanSize=6000 6000
 [MapMaker]
-StartPos=6516.11 483.933 4309.69
+StartPos=3876.84 467.128 4240.96
 [Weather]
-[Portal]
-HasPortal=true
-Position=0 0 0
-Yaw=0
