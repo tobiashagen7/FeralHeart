@@ -7,17 +7,16 @@ pass
 {
 vertex_program_ref AlphaSplatTerrain/VP
 {
-param_named pageSize float 25000
-param_named textureTileSize float 2
+param_named pageSize float 8000
+param_named textureTileSize float 6.25
 }
 fragment_program_ref AlphaSplatTerrain1/FP
 {
-param_named alpha0Mask float4 1 1 1 0
+param_named alpha0Mask float4 1 1 0 0
 }
 }
 }
-set_texture_alias AlphaMap1 oldSouthPoleMask.png
-set_texture_alias Splat1 oldice.jpg
-set_texture_alias Splat2 oldsnowtex.jpg
-set_texture_alias Splat3 oldsoftSand.jpg
+set_texture_alias AlphaMap1 oldTempleOfDreamsMask.png
+set_texture_alias Splat1 oldsoftSand.jpg
+set_texture_alias Splat2 oldgreen_grass.jpg
 }

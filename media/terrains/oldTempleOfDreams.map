@@ -1,0 +1,19 @@
+[Map]
+Name=Temple Of Dreams
+Seed=3Ri87zxmKN
+[Terrain]
+Filename=oldTempleOfDreamsTerrain.cfg
+Size=8000 8000
+Boundary=1000
+[Sky]
+HasSky=true
+[Objects]
+Filename=oldTempleOfDreamsObjects.cfg
+[Gates]
+Filename=oldTempleOfDreamsGates.cfg
+[Water]
+Filename=oldTempleOfDreamsWater.cfg
+Ocean=4000 50 4000
+OceanSize=9600 9600
+[MapMaker]
+StartPos=4062.51 581.416 6102.35

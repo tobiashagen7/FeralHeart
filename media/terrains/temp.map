@@ -1,10 +1,10 @@
 [Map]
-Name=South Pole
+Name=Temple Of Dreams
 Seed=yL2g4VYfme
 [Terrain]
 Filename=tempTerrain.cfg
-Size=25000 25000
-Boundary=2500
+Size=8000 8000
+Boundary=1000
 [Sky]
 HasSky=true
 [Objects]
@@ -13,7 +13,8 @@ Filename=tempObjects.cfg
 Filename=tempGates.cfg
 [Water]
 Filename=tempWater.cfg
+Ocean=4000 50 4000
+OceanSize=9600 9600
 [MapMaker]
-StartPos=21625.2 2807.34 4100.58
+StartPos=4181.97 339.729 5921.12
 [Weather]
-Filename=EternalSnow
